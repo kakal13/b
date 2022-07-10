@@ -1,16 +1,15 @@
-HTTrack3.49-2+htsswf+htsjava launched on Tue, 05 Jul 2022 15:33:46 at https://www.cspira.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%P%s%u%I0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://www.cspira.com.br/ -O1 "C:\Meus Sites\cspira" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 09 Jul 2022 02:42:45 at https://www.cspira.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr20%e0C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://www.cspira.com.br/ -O1 "C:\Users\alexa\Desktop\create\sit2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-15:34:53	Error: 	"Not Found" (404) at link https://1.bp.blogspot.com/-8TcMxpoFBI8/XXfVXz0RfoI/AAAAAAAAAgg/AIlcAyY03T4N2Hy0U1C6yJzmXFVEMzfEgCLcBGAs/s1600/video_logo.jpg (from https://www.cspira.com.br/)
-15:34:55	Error: 	"Not Found" (404) at link https://www.cspira.com.br/2020/12/counter-strike-16-nom-steam_20.html (from https://www.cspira.com.br/)
-15:39:12	Error: 	"Not Found" (404) at link https://www.cspira.com.br/2020/12/cspira (from https://www.cspira.com.br/2020/12/rehlds-counter-strike16.html)
-15:40:55	Error: 	"Not Found" (404) at link docs.google.com/images/env.png (from https://sites.google.com/site/blogcommentssg/_/rsrc/1655969592000/system/app/css/camelot/error.css)
-15:43:32	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.cspira.com.br/2020/12/plugin-rastro-das-granadas.html?showComment=1610382535844 (from https://www.cspira.com.br/2020/12/plugin-rastro-das-granadas.html)
+02:43:54	Error: 	"Not Found" (404) at link https://1.bp.blogspot.com/-8TcMxpoFBI8/XXfVXz0RfoI/AAAAAAAAAgg/AIlcAyY03T4N2Hy0U1C6yJzmXFVEMzfEgCLcBGAs/s1600/video_logo.jpg (from https://www.cspira.com.br/)
+02:43:56	Error: 	"Not Found" (404) at link https://www.cspira.com.br/2020/12/counter-strike-16-nom-steam_20.html (from https://www.cspira.com.br/)
+02:47:46	Error: 	"Not Found" (404) at link https://www.cspira.com.br/2020/12/cspira (from https://www.cspira.com.br/2020/12/rehlds-counter-strike16.html)
+02:49:31	Error: 	"Not Found" (404) at link docs.google.com/images/env.png (from https://sites.google.com/site/blogcommentssg/_/rsrc/1656575540000/system/app/css/camelot/error.css)
 
-HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 16 seconds : 713 links scanned, 707 files written (79647658 bytes overall) [44502325 bytes received at 72244 bytes/sec], 45359046 bytes transferred using HTTP compression in 348 files, ratio 20%, 1.0 requests per connection
-(4 errors, 1 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 2 seconds : 710 links scanned, 705 files written (79503675 bytes overall) [44386979 bytes received at 92089 bytes/sec], 45285420 bytes transferred using HTTP compression in 348 files, ratio 20%, 1.0 requests per connection
+(4 errors, 0 warnings, 0 messages)
